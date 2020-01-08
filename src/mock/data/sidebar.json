@@ -1,0 +1,61 @@
+{
+    "sidebar": [
+        {
+            "hrefurl": "#page1",
+            "classname": "active",
+            "text": "推荐"
+        },
+        {
+            "hrefurl": "#page2",
+            "text": "iPhone"
+        },
+        {
+            "hrefurl": "#page3",
+            "text": "华为"
+        },
+        {
+            "hrefurl": "#page4",
+            "text": "小米"
+        },
+        {
+            "hrefurl": "#page5",
+            "text": "OPPO"
+        },
+        {
+            "hrefurl": "#page6",
+            "text": "vivo"
+        },
+        {
+            "hrefurl": "#page7",
+            "text": "荣耀"
+        },
+        {
+            "hrefurl": "#page8",
+            "text": "平板"
+        },
+        {
+            "hrefurl": "#page9",
+            "text": "红米"
+        },
+        {
+            "hrefurl": "#page10",
+            "text": "三星"
+        },
+        {
+            "hrefurl": "#page11",
+            "text": "手表"
+        },
+        {
+            "hrefurl": "#page12",
+            "text": "笔记本"
+        },
+        {
+            "hrefurl": "#page13",
+            "text": "靓选"
+        },
+        {
+            "hrefurl": "#page14",
+            "text": "租机"
+        }
+    ]
+}

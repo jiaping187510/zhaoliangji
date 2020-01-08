@@ -1,0 +1,74 @@
+{
+    "pagelist": [
+        {
+            "pageid": "page1",
+            "text1": "推荐",
+            "text2": "最高省3000！"
+        },
+        {
+            "pageid": "page2",
+            "text1": "iPhone",
+            "text2": "最高省3000！"
+        },
+        {
+            "pageid": "page3",
+            "text1": "华为",
+            "text2": "最高省3000！"
+        },
+        {
+            "pageid": "page4",
+            "text1": "小米",
+            "text2": "最高省3000！"
+        },
+        {
+            "pageid": "page5",
+            "text1": "OPPO",
+            "text2": "最高省3000！"
+        },
+        {
+            "pageid": "page6",
+            "text1": "vivo",
+            "text2": "最高省3000！"
+        },
+        {
+            "pageid": "page7",
+            "text1": "荣耀",
+            "text2": "最高省3000！"
+        },
+        {
+            "pageid": "page8",
+            "text1": "平板",
+            "text2": "最高省3000！"
+        },
+        {
+            "pageid": "page9",
+            "text1": "红米",
+            "text2": "最高省3000！"
+        },
+        {
+            "pageid": "page10",
+            "text1": "三星",
+            "text2": "最高省3000！"
+        },
+        {
+            "pageid": "page11",
+            "text1": "手表",
+            "text2": "最高省3000！"
+        },
+        {
+            "pageid": "page12",
+            "text1": "笔记本",
+            "text2": "最高省3000！"
+        },
+        {
+            "pageid": "page13",
+            "text1": "靓选",
+            "text2": "最高省3000！"
+        },
+        {
+            "pageid": "page13",
+            "text1": "租机",
+            "text2": "最高省3000！"
+        }
+    ]
+}
